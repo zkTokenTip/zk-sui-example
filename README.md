@@ -1,5 +1,7 @@
 # zk-sui-example
 
+This repository is currently under development and testing. It demonstrates how to integrate zero-knowledge proofs from Circom or Arkworks into the SUI blockchain using smart contracts written in Move.
+
 - [Groth16 (docs.sui.io](https://docs.sui.io/guides/developer/cryptography/groth16)
 - [ark-circom](https://github.com/arkworks-rs/circom-compat)
 
