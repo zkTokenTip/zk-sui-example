@@ -4,6 +4,7 @@ This repository is currently under development and testing. It demonstrates how 
 
 - [Groth16 (docs.sui.io)](https://docs.sui.io/guides/developer/cryptography/groth16)
 - [ark-circom](https://github.com/arkworks-rs/circom-compat)
+- [SP1 Verifier on Sui](https://soundness.xyz/blog/sp1sui)
 
 ## Note
 
